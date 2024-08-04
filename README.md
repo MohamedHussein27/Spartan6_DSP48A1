@@ -139,3 +139,9 @@ All resets are active high reset and can be synchronous or asynchronous dependin
 
 - Ensure that all sections of the design are verified and validated according to the requirements.
 - Use the provided parameters and port descriptions to understand the functionalities and design constraints.
+
+
+## Contact Me!
+- [Email](mailto:Mohamed_Hussein2100924@outlook.com)
+- [WhatsApp](https://wa.me/+2001097685797)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-hussein-274337231)
