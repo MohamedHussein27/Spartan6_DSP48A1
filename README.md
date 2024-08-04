@@ -133,7 +133,7 @@ All resets are active high reset and can be synchronous or asynchronous dependin
 
 ## Schematic
 
-![Schematic](path/to/schematic/image)
+![Schematic](General_Schematic/Spartan6_Schematic)
 
 ## Notes
 
