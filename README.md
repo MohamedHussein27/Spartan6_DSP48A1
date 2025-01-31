@@ -140,6 +140,10 @@ All resets are active high reset and can be synchronous or asynchronous dependin
 - Ensure that all sections of the design are verified and validated according to the requirements.
 - Use the provided parameters and port descriptions to understand the functionalities and design constraints.
 
+## Eng. Kareem Waseem
+- This is the mini project of **Digital Design using Verilog and FPGA flow using Vivado Version 13 Diploma** by Eng. **Kareem Waseem** (Digital Verification Team Lead at Si-Vision), I highly recommend this diploma for everyone interested or working in Digital Design.
+- [Eng. Kareem's LinkedIn](https://www.linkedin.com/in/kareem-waseem/).
+- For updates check out the [facebook group](https://www.facebook.com/share/g/15EpEScjx3/).
 
 ## Contact Me!
 - [Email](mailto:Mohamed_Hussein2100924@outlook.com)
